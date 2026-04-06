@@ -1,9 +1,9 @@
 <!-- ====== TÍTULO DEL PROYECTO ====== -->
 <h1 style="font-family: Arial, sans-serif; color:#1A73E8; margin-bottom: 5px;">
-  Análisis del Embudo de Conversión y Test A/B · Proyecto TripleTen
+  Análisis del Embudo de Conversión y Test A/B
 </h1>
 <p style="font-family: Arial, sans-serif; color:#555; margin-top: 0;">
-  Tienda de Productos Alimenticios · Data Analytics
+  Tienda de Productos Alimenticios ·
 </p>
 
 <hr style="border: 0; border-top: 2px solid #1A73E8; margin: 20px 0;">
